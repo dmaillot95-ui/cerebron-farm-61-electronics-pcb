@@ -1,0 +1,12 @@
+{
+  "farm_id": 61,
+  "name": "cerebron-farm-61-electronics-pcb",
+  "domain": "electronics-pcb",
+  "status": "SCAFFOLDED",
+  "protocol": "SPIRALIX-OMEGA",
+  "capabilities": [
+    "pcb-design",
+    "signal-power-integrity"
+  ],
+  "evidence_ceiling": "E2-before-real-tests"
+}
